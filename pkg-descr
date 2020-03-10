@@ -1,0 +1,7 @@
+U-Boot loader and related files for the Nvidia Jetson Nano.
+
+To install this bootloader on an sdcard:
+ - Download L4T Driver Package (BSP) from https://developer.nvidia.com/embedded/linux-tegra
+ - With a linux machine: untar and execute: flash.sh -K u-boot.bin p3448-0000-sd mmcblk0p1
+
+WWW: https://www.denx.de/wiki/U-Boot
