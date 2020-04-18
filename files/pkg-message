@@ -1,3 +1,0 @@
-Download L4T Driver Package (BSP) from https://developer.nvidia.com/embedded/linux-tegra
-You'll need a linux machine for the next step.
-Untar and execute: flash.sh -K u-boot.bin p3448-0000-sd mmcblk0p1
